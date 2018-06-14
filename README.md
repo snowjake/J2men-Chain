@@ -1,4 +1,5 @@
 # toychain，区块链模拟实现  增加swagger接口解释以及注解
+增加分词接口 以及语音识别语音合成sample
 ## Overview
 Toychain is a sample block chain toy.<br>
 
